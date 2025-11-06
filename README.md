@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-Your Personal AI Assistant (<a href="https://agentica-project.com/post.html?post=pepper.md"><b>Blog</b></a>)
+Your Personal AI Assistant (<a href="https://rllm-project.com/post.html?post=pepper.md"><b>Blog</b></a>)
 </h3>
 
 Pepper is a personal AI assistant that proactively works for you. It connects to your Gmail to autonomously summarize important emails and surface critical updates that need your attention, delegating complex tasks to a swarm of workers that handle them seamlessly in the background.
